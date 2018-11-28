@@ -1,0 +1,11 @@
+
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+
+    my_command:
+        class: Fbenoist\FbSample_Console\Command\MyCommand
+        public: true
+        tags:
+            - { name: 'console.command' }
