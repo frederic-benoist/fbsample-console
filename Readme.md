@@ -21,7 +21,7 @@ To simplify the installation of the module files, we will use the [PrestaSpirit]
     ```
 2. Install the module files in PrestaShop module directory
     ```sh
-    $ composer require frederic-benoist/fbsample-console dev-master
+    $ composer require frederic-benoist/fbsample_console dev-master
     ```
 
 3. Install the module with new PrestaShop command.
