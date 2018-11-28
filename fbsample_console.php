@@ -31,7 +31,7 @@ class FbSample_Console extends Module
         $this->tab = 'others';
         $this->bootstrap = true;
         $this->ps_versions_compliancy = array(
-            'min' => '1.7.5',
+            'min' => '1.7.4',
             'max' => _PS_VERSION_
         );
         parent::__construct();

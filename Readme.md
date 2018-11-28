@@ -6,7 +6,7 @@ Add console command with PrestaShop 1.7 module.
 
 ### Prerequisites
 
-- You need a shop with **PrestaShop 1.7.5.0** or higher.
+- You need a shop with **PrestaShop 1.7.4.0** or higher.
 - You need access to the **shell** of your server.
 - You need **composer**.
 
