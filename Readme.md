@@ -27,16 +27,16 @@ To simplify the installation of the module files, we will use the [PrestaSpirit]
 3. Install the module with new PrestaShop command.
 
     ```sh
-    cd prestashop_root_directory
-    php bin/console prestashop:module install fbsample_console
+    $ cd prestashop_root_directory
+    $ php bin/console prestashop:module install fbsample_console
     ```
     >`Use php `**`app/console`**` instead of php `**`bin/console`**` for versions prior to `**`1.7.4`**
 
 ## Running 
 
 ```sh
-cd prestashop_root_directory
-php bin/console fbsample_console:mycommand
+$ cd prestashop_root_directory
+$ php bin/console fbsample_console:mycommand
 ```
 
 >`Use php `**`app/console`**` instead of php `**`bin/console`**` for versions prior to `**`1.7.4`**
