@@ -12,9 +12,9 @@
  * obtain it through the world-wide-web, please send an email
  * to license@prestashop.com so we can send you a copy immediately.
  *
- * @author    Frédéric BENOIST <http://www.fbenoist.com/>
- * @copyright 2013-2018 Frédéric BENOIST <contact@fbenoist.com>
- * @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ *  @author    Frédéric BENOIST
+ *  @copyright 2013-2018 Frédéric BENOIST <https://www.fbenoist.com/>
+ *  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
  */
 
 namespace Fbenoist\FbSample_Console\Command;
