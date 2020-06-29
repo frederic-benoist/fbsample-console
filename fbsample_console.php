@@ -35,7 +35,7 @@ class FbSample_Console extends Module
             'max' => _PS_VERSION_
         );
         parent::__construct();
-        $this->displayName = $this->l('Sample console command Module ');       
+        $this->displayName = $this->l('Sample console command Module ');
         $this->description = $this->l('Add console command with PrestaShop 1.7 module.');
     }
 }
