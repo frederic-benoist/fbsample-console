@@ -12,25 +12,8 @@ Add console command with PrestaShop 1.7 module.
 
 ## Installing
 
-To simplify the installation of the module files, we will use the [PrestaSpirit](https://prestaspirit.org) repository.
-
-1. Add PrestaSpirit repository to your composer.json 
-    ```sh
-    $ cd prestashop_root_directory
-    $ composer config repositories.prestaspirit composer https://prestaspirit.org
-    ```
-2. Install the module files in PrestaShop module directory
-    ```sh
-    $ composer require frederic-benoist/fbsample_console dev-master
-    ```
-
-3. Install the module with new PrestaShop command.
-
-    ```sh
-    $ cd prestashop_root_directory
-    $ php bin/console prestashop:module install fbsample_console
-    ```
-    >`Use php `**`app/console`**` instead of php `**`bin/console`**` for versions prior to `**`1.7.4`**
+- Download or clone module into modules directory of your PrestaShop installation
+- Install module from Back Office
 
 ## Running 
 
